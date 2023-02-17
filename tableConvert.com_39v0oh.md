@@ -1,0 +1,11 @@
+﻿| Starting Database...                                                                                 |   |   |   |   |   |   |   |   |   |
+|------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|---|---|
+| Active Internet connections (only servers)                                                           |   |   |   |   |   |   |   |   |   |
+| Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name     |   |   |   |   |   |   |   |   |   |
+| tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      439/systemd-resolve  |   |   |   |   |   |   |   |   |   |
+| tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1046/sshd: /usr/sbi  |   |   |   |   |   |   |   |   |   |
+| tcp6       0      0 :::3306                 :::*                    LISTEN      1047/mysqld          |   |   |   |   |   |   |   |   |   |
+| tcp6       0      0 :::22                   :::*                    LISTEN      1046/sshd: /usr/sbi  |   |   |   |   |   |   |   |   |   |
+| udp        0      0 127.0.0.53:53           0.0.0.0:*                           439/systemd-resolve  |   |   |   |   |   |   |   |   |   |
+| udp        0      0 172.31.30.147:68        0.0.0.0:*                           437/systemd-network  |   |   |   |   |   |   |   |   |   |
+|                                                                                                      |   |   |   |   |   |   |   |   |   |
